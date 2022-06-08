@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-php7-laravel-web
   title: PHP 7 Laravel Web Application
-  description: 
+  description: Cria uma aplicação web usando PHP7 e Laravel framework
   tags:
     - api
     - rest
@@ -11,7 +11,7 @@ metadata:
     - laravel
     - lumen
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
